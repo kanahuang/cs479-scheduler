@@ -1,5 +1,5 @@
 //CourseList and functions called
-import React, { useState, useEffect } from 'react';
+import React, { useState} from 'react';
 import {getCourseTerm} from '../utilities/times.js';
 import {TermSelector} from '../App.js';
 import Course from './Course.js';
